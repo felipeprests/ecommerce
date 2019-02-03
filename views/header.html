@@ -33,7 +33,6 @@
     <![endif]-->
   </head>
   <body>
-   <p>hAHAHAHAHA</p>
     <div class="header-area">
         <div class="container">
             <div class="row">
